@@ -1,0 +1,1 @@
+This script allows you to efficiently import gene annotation data, filter for genes, and find overlaps with specific genomic regions. The result is the number of genes that overlap the specified interval.
